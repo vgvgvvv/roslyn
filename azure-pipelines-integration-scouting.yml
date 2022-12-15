@@ -19,6 +19,8 @@ parameters:
   values:
   - NetCore-Public
   - NetCore-Svc-Public
+  - NetCore-Public-Int
+  - NetCore-Svc-Public-Int
 - name: queueName
   displayName: Queue Name
   type: string
